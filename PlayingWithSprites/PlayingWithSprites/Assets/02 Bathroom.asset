@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2fbc31c127401e4f9927fc661478d70, type: 3}
+  m_Name: 02 Bathroom
+  m_EditorClassIdentifier: 
+  storyText: 'Billy sees the new bathroom perks that his mother bought. In Billy''s
+    house, everybody had its own toilet, so to use his toilet, Billy had to press
+    a button so that the current toilet would hide into the wall and switch with his
+    toilet.
+
+
+    For every person that had to stay at Billy''s place, or just came by for visiting,
+    a new toilet had to be installed.
+
+
+    1. Take a glass of water.
+
+    2. Press button to prepare Hitachi Yakuzi 5 Second Massage bath.
+
+    3. Go back to bed.'
+  nextStates:
+  - {fileID: 11400000, guid: edefbf504c76a5747915de81b62450c1, type: 2}
